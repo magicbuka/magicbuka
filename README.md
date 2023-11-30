@@ -50,8 +50,3 @@
 <p>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=magicbuka&show_icons=true&layout=compact&theme=tokyonight'/>
 </p>
-
-[Резюме](https://hh.ru/applicant/resumes/view?resume=c20d14a8ff0c9e0d880039ed1f4f3433367561)
-
-Примеры работ
-
